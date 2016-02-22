@@ -10,18 +10,22 @@ npm install -g eslint babel-eslint
 Go to sublime and install following packages:
 - SublimeLinter
 - SublimeLinter-contrib-eslint
+
 Go to project folder and
 ```
 npm link
 ```
 Go to project you need eslint inside
+
 Create .eslintrc.json
+
 Add row
 ```
 "extends": [
     "eslint-config-snownoop"
   ],
 ```
+
 Relaunch Sublime-Text-3
 
 P.S:
