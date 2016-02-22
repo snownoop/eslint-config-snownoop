@@ -4,7 +4,9 @@ Eslint config npm module
 You will need folowing npm packages to be installed
 Some basic Git commands are:
 ```
-git status
-git add
-git commit
+npm install -g eslint babel-eslint
 ```
+Then go to sublime and install following packages:
+- SublimeLinter
+- SublimeLinter-contrib-eslint
+
