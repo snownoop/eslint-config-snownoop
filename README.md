@@ -28,5 +28,10 @@ Add row
 
 Relaunch Sublime-Text-3
 
+Examples:
+![alt tag](https://raw.githubusercontent.com/snownoop/eslint-config-snownoop/master/readme-images/error.png)
+![alt tag](https://raw.githubusercontent.com/snownoop/eslint-config-snownoop/master/readme-images/warnings.png)
+![alt tag](https://raw.githubusercontent.com/snownoop/eslint-config-snownoop/master/readme-images/message.png)
+
 P.S:
 > You can create .eslintrc.json on your projects root folder, so all child folders will auto-extend this file, or you can extend it by yourself if it is needed.
